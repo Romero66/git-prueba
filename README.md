@@ -1,2 +1,2 @@
 # git-prueba
-Mi promer projecto con git
+Mi primer projecto con git
